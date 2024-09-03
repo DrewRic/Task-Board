@@ -10,11 +10,13 @@ This application requirements the user to have access to the Day.js library, whi
 
 # Visual
 
-
+![Task Board](https://github.com/user-attachments/assets/b8fb5e96-5273-48fe-a84d-9b6ca607bdc3)
 
 # Links
 
+https://github.com/DrewRic/Task-Board.git
 
+https://drewric.github.io/Task-Board/
 
 # Author
 
